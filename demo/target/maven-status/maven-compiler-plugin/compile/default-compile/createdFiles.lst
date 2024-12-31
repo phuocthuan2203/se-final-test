@@ -1,0 +1,10 @@
+com/example/report/Report.class
+com/example/parser/PDFTransactionParser.class
+com/example/analyzer/StatementAnalyzer.class
+com/example/model/BankStatement.class
+com/example/report/ReportView.class
+com/example/parser/CSVTransactionParser.class
+com/example/model/Transaction.class
+com/example/MainApplication.class
+com/example/report/ReportExporter.class
+com/example/parser/ITransactionParser.class
